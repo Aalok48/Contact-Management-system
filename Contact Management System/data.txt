@@ -1,0 +1,9 @@
+{'Anurag': {'contact': '985723982', 'address': 'Janakpur-7', 'gmail': 'anuragchakka@gmail.com'}}
+{'Amit': {'contact': '9847293823', 'address': 'Janakpur-7', 'gmail': 'jhaamit@gmail.com'}}
+{'kiran': {'contact': '984441940', 'address': 'Janakpur-7', 'gmail': 'karnakiran@gmail.com'}}
+{'Umanath thakur': {'contact': '9832312545', 'address': 'Lamachaur,pokhara', 'gmail': 'thakurumanath@gmail.com'}}
+{'Saurav ': {'contact': '98423242423', 'address': 'Janakpur-7', 'gmail': 'jhasaurav@gmail.com'}}
+{'Chotu': {'contact': '98230921039', 'address': 'Ashok vatika, birgunj', 'gmail': 'chotu@gmail.com'}}
+{'Alok': {'contact': '9840040481', 'address': 'Lamachaur,pokhara', 'gmail': 'karnaalok48@gmail.com'}}
+{'Dhiraj': {'contact': '9810142525', 'address': 'siraha', 'gmail': 'dhirajmahat02019@gmail.com'}}
+{'Amit': {'contact': '123489', 'address': 'janakpur', 'gmail': 'amitjha@gmail.com'}}
